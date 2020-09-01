@@ -1,0 +1,13 @@
+{
+	"time": [{
+		"stHour": 0,
+		"stMin": 0,
+		"edHour": 23,
+		"edMin": 0
+	}, {
+		"stHour": 23,
+		"stMin": 10,
+		"edHour": 23,
+		"edMin": 50
+	}]
+}

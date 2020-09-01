@@ -1,0 +1,186 @@
+{
+	"BUFF_EVENT": {
+		"BE_CURE": 7,
+		"BE_ATTACK": 6,
+		"LAP_COUNT": 5
+	},
+	"CONTACT": {
+		"STRANGER": 0,
+		"FRIEND": 1,
+		"BLACK": 2
+	},
+	"REC_STATE": {
+		"REC_ED": 2,
+		"REC_ING": 1
+	},
+	"TASK_TYPE": {
+		"MAIN": 1,
+		"DAILY": 2,
+		"ACHIEVE": 3
+	},
+	"ARENA_STATE": {
+		"WAIT": 1,
+		"CLOSE": 3,
+		"OPEN": 2
+	},
+	"ATTACK_TYPE": {
+		"PHY": 1,
+		"MAGIC": 2
+	},
+	"GRID_TYPE": {
+		"JELLYFISH": 4,
+		"FISH": 2,
+		"GOLD": 5,
+		"SEA_HORSE": 1,
+		"SEA_STAR": 3,
+		"CONCH": 6
+	},
+	"TASK_JUMP_TYPE": {
+		"SPEND_DIAMOND": 19,
+		"GOLD": 13,
+		"STAMINA": 11,
+		"DUNGEON_ALL": 12,
+		"PVP_ITMES": 5,
+		"PVA_ITMES": 6,
+		"FRIEND_PVP": 25,
+		"ROLE_STAR": 24,
+		"PVA_ACH": 15,
+		"PLAYER_LEVEL": 10,
+		"EQUIMENT_STRENTH": 9,
+		"FRIEND": 18,
+		"ROLE_TRIAN": 22,
+		"ITEM": 3,
+		"PARTNER": 2,
+		"PVP_ACH": 16,
+		"ROLE_ADVCE": 7,
+		"PVB": 17,
+		"POWER_SKILL": 21,
+		"STAR": 20,
+		"EQUIMENT_ADVCE": 8,
+		"SIGN": 14,
+		"DUNGEON": 1,
+		"FRIEND_GIVE": 23,
+		"SHOP": 4
+	},
+	"MAX_WEEKLY_BUY_TIMES": 50,
+	"BUFF_EVENT_OBJ": {
+		"MYSELF": 1,
+		"ALLY": 2,
+		"BUFF": 4,
+		"ENEMY": 3
+	},
+	"DAMAGE_TYPE": {
+		"NONE": "non",
+		"MAGIC": "mag",
+		"PHY": "phy",
+		"ADD_DE": "addDE",
+		"ADD_HP": "addHP"
+	},
+	"BUFF_EFFECT_OBJ": {
+		"MYSELF": 1,
+		"ALLY": 2,
+		"RANDOM": 4,
+		"ENEMY": 3
+	},
+	"GIFT_STATE": {
+		"GIFT_ING": 1,
+		"GIFT_ED": 2
+	},
+	"GET_GIFT_STATE": {
+		"ING": 2,
+		"START": 1,
+		"CLOSE": 3
+	},
+	"GLOBAL": {
+		"WEEKLY_RANK": 1,
+		"ARENA": 2
+	},
+	"SHOP_TYPE": {
+		"ITEM": 2,
+		"HONOR": 4,
+		"GOLD": 1,
+		"PACKAGE": 3
+	},
+	"OPERATOR": {
+		"DIAN_DIAN": "diandian"
+	},
+	"MAX_WEEKLY_PK_TIMES": 10,
+	"INVITE_STATE": {
+		"CLOSE": 2,
+		"START": 1
+	},
+	"PVP_RANK": {
+		"PLATINUM": 4,
+		"BRONZE": 1,
+		"DIAMOND": 5,
+		"SILVER": 2,
+		"GOLD": 3
+	},
+	"FightModel": {
+		"PVB": "pvb",
+		"PVP": "pvp",
+		"PVA": "pva",
+		"PVE": "pve",
+		"PVF": "pvf"
+	},
+	"ACTION_CODE": {
+		"DEL": 0,
+		"ADD": 1
+	},
+	"RESULT": {
+		"WIN": 1,
+		"LOSS": 0,
+		"DRAW": 2
+	},
+	"ITEM_TYPE": {
+		"HONOR": 5,
+		"GOLD": 2,
+		"EXP": 1,
+		"STAMINA": 4,
+		"DIAMOND": 3,
+		"ITEM": 1000,
+		"PVP_SCORE": 6
+	},
+	"FIGHT_TARGET": {
+		"ENEMY": "enemys",
+		"ME": "me",
+		"FRIEND": "friend"
+	},
+	"ATTACK_RATIO": {
+		"CRIT": 1,
+		"NORMAL": 0,
+		"FATAL": 2
+	},
+	"TASK_STATE": {
+		"OPENED": 0,
+		"CLOSED": 3,
+		"DOING": 1,
+		"DONE": 2
+	},
+	"USE_ITEM_IDS": {
+		"HPDE_ITEM_ID": 21001
+	},
+	"PARTNER_TYPE": {
+		"WARRIOR": 10002,
+		"KNIGHT": 10001,
+		"MAGICIAN": 10003,
+		"PRIEST": 10004,
+		"ARCHER": 10005
+	},
+	"DROP_TYPE": {
+		"NORMAL": 1,
+		"EMPTY": 2,
+		"OTHERDROP": 3
+	},
+	"STAR_RATE": {
+		"STATUSTHREE": 0.85,
+		"STATUSTWO" : 0.45,
+		"STEPTHREE": 1,
+		"STEPTWO": 1.5
+	},
+	"ROOKIE_GUIDE": 41011,
+	"MAIL_TYPE": {
+		"ROOKIE": 1,
+		"TASK": 2
+	}
+}

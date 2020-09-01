@@ -1,0 +1,23 @@
+[server]
+    port = 9527
+# 数据库相关配置
+[db]
+    addr="game:123456@(127.0.0.1:3306)/game?charset=utf8&parseTime=true&loc=Local"
+    max_idle_conns=8
+    max_open_conns=32
+    set_conn_maxLifetime=60   # 设为部署的mysql conn_maxLifetim值的一半
+[admin]
+    port = 8800
+[general]
+    token_expire=86400
+    token_key=""
+    configDir = "config"
+    logsDir = "logs/game.log"
+    dic = "dic.txt"
+[login]
+    port = 80
+[ldb]
+    addr="user:123456@(127.0.0.1:3306)/user?charset=utf8&parseTime=true&loc=Local"
+    max_idle_conns=8
+    max_open_conns=32
+    set_conn_maxLifetime=60   # 设为部署的mysql conn_maxLifetim值的一半

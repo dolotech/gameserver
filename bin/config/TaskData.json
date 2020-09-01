@@ -1,0 +1,110 @@
+
+{
+    "10001" : { "taskType" : 1, "isFrist" : 1, "nextTaskId" : 10002, "dropId" : 427001, "taskJump" : 1, "condition" : [41004,1]}
+    ,"10002" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10003, "dropId" : 427002, "taskJump" : 1, "condition" : [41006,1]}
+    ,"10003" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10004, "dropId" : 427003, "taskJump" : 1, "condition" : [41007,1]}
+    ,"10004" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10005, "dropId" : 427004, "taskJump" : 1, "condition" : [41008,1]}
+    ,"10005" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10006, "dropId" : 427005, "taskJump" : 1, "condition" : [41009,1]}
+    ,"10006" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10007, "dropId" : 427009, "taskJump" : 1, "condition" : [41012,1]}
+    ,"10007" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10008, "dropId" : 427007, "taskJump" : 1, "condition" : [41051,1]}
+    ,"10008" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10009, "dropId" : 427021, "taskJump" : 1, "condition" : [41053,1]}
+    ,"10009" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10010, "dropId" : 427010, "taskJump" : 1, "condition" : [41055,1]}
+    ,"10010" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10011, "dropId" : 427023, "taskJump" : 1, "condition" : [41056,1]}
+    ,"10011" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10012, "dropId" : 427012, "taskJump" : 1, "condition" : [41059,1]}
+    ,"10012" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10013, "dropId" : 427027, "taskJump" : 1, "condition" : [41062,1]}
+    ,"10013" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10014, "dropId" : 427013, "taskJump" : 1, "condition" : [41103,1]}
+    ,"10014" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10015, "dropId" : 427014, "taskJump" : 1, "condition" : [41106,1]}
+    ,"10015" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10016, "dropId" : 427015, "taskJump" : 1, "condition" : [41109,1]}
+    ,"10016" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10017, "dropId" : 427017, "taskJump" : 1, "condition" : [41112,1]}
+    ,"10017" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10018, "dropId" : 427016, "taskJump" : 1, "condition" : [41153,1]}
+    ,"10018" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10019, "dropId" : 427018, "taskJump" : 1, "condition" : [41156,1]}
+    ,"10019" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10020, "dropId" : 427019, "taskJump" : 1, "condition" : [41159,1]}
+    ,"10020" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10021, "dropId" : 427025, "taskJump" : 1, "condition" : [41162,1]}
+    ,"10021" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10022, "dropId" : 427012, "taskJump" : 1, "condition" : [41203,1]}
+    ,"10022" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10023, "dropId" : 427018, "taskJump" : 1, "condition" : [41206,1]}
+    ,"10023" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10024, "dropId" : 427015, "taskJump" : 1, "condition" : [41209,1]}
+    ,"10024" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10025, "dropId" : 427023, "taskJump" : 1, "condition" : [41212,1]}
+    ,"10025" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10026, "dropId" : 427019, "taskJump" : 1, "condition" : [41253,1]}
+    ,"10026" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10027, "dropId" : 427023, "taskJump" : 1, "condition" : [41256,1]}
+    ,"10027" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10028, "dropId" : 427024, "taskJump" : 1, "condition" : [41259,1]}
+    ,"10028" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10029, "dropId" : 427025, "taskJump" : 1, "condition" : [41262,1]}
+    ,"10029" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10030, "dropId" : 427012, "taskJump" : 1, "condition" : [41303,1]}
+    ,"10030" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10031, "dropId" : 427015, "taskJump" : 1, "condition" : [41306,1]}
+    ,"10031" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10032, "dropId" : 427018, "taskJump" : 1, "condition" : [41309,1]}
+    ,"10032" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10033, "dropId" : 427025, "taskJump" : 1, "condition" : [41312,1]}
+    ,"10033" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10034, "dropId" : 427019, "taskJump" : 1, "condition" : [41353,1]}
+    ,"10034" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10035, "dropId" : 427023, "taskJump" : 1, "condition" : [41356,1]}
+    ,"10035" : { "taskType" : 1, "isFrist" : 0, "nextTaskId" : 10036, "dropId" : 427021, "taskJump" : 1, "condition" : [41359,1]}
+    ,"10036" : { "taskType" : 1, "isFrist" : 0, "dropId" : 427025, "taskJump" : 1, "condition" : [41401,1]}
+    ,"21001" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428001, "taskJump" : 9, "condition" : [0,1]}
+    ,"21002" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428002, "taskJump" : 22, "condition" : [0,5]}
+    ,"21003" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428005, "taskJump" : 19, "condition" : [0,1]}
+    ,"21004" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428004, "taskJump" : 5, "condition" : [0,3]}
+    ,"21005" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428003, "taskJump" : 6, "condition" : [0,3]}
+    ,"21006" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428007, "taskJump" : 12, "condition" : [0,5]}
+    ,"21007" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428006, "taskJump" : 17, "condition" : [0,1]}
+    ,"21008" : { "taskType" : 2, "isFrist" : 1, "dropId" : 428008, "taskJump" : 23, "condition" : [0,3]}
+    ,"21009" : { "taskType" : 2, "isFrist" : 1, "dropId" : 400007, "taskJump" : 25, "condition" : [0,1]}
+    ,"31001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 31002, "dropId" : 429101, "taskJump" : 10, "condition" : [0,10]}
+    ,"31002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31003, "dropId" : 429102, "taskJump" : 10, "condition" : [0,20]}
+    ,"31003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31004, "dropId" : 429103, "taskJump" : 10, "condition" : [0,30]}
+    ,"31004" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31005, "dropId" : 429104, "taskJump" : 10, "condition" : [0,40]}
+    ,"31005" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31006, "dropId" : 429105, "taskJump" : 10, "condition" : [0,50]}
+    ,"31006" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31007, "dropId" : 429106, "taskJump" : 10, "condition" : [0,60]}
+    ,"31007" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31008, "dropId" : 429107, "taskJump" : 10, "condition" : [0,70]}
+    ,"31008" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31009, "dropId" : 429108, "taskJump" : 10, "condition" : [0,80]}
+    ,"31009" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 31010, "dropId" : 429109, "taskJump" : 10, "condition" : [0,90]}
+    ,"31010" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429110, "taskJump" : 10, "condition" : [0,100]}
+    ,"32001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 32002, "dropId" : 429201, "taskJump" : 13, "condition" : [0,500000]}
+    ,"32002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 32003, "dropId" : 429202, "taskJump" : 13, "condition" : [0,1000000]}
+    ,"32003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 32004, "dropId" : 429203, "taskJump" : 13, "condition" : [0,2333333]}
+    ,"32004" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 32005, "dropId" : 429204, "taskJump" : 13, "condition" : [0,6666666]}
+    ,"32005" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429205, "taskJump" : 13, "condition" : [0,8888888]}
+    ,"33001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 33002, "dropId" : 429301, "taskJump" : 12, "condition" : [0,20]}
+    ,"33002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 33003, "dropId" : 429302, "taskJump" : 12, "condition" : [0,50]}
+    ,"33003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 33004, "dropId" : 429303, "taskJump" : 12, "condition" : [0,100]}
+    ,"33004" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 33005, "dropId" : 429304, "taskJump" : 12, "condition" : [0,200]}
+    ,"33005" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429305, "taskJump" : 12, "condition" : [0,500]}
+    ,"34001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 34002, "dropId" : 429401, "taskJump" : 14, "condition" : [0,22]}
+    ,"34002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 34003, "dropId" : 429402, "taskJump" : 14, "condition" : [0,44]}
+    ,"34003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 34004, "dropId" : 429403, "taskJump" : 14, "condition" : [0,66]}
+    ,"34004" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429404, "taskJump" : 14, "condition" : [0,88]}
+    ,"35001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 35002, "dropId" : 429501, "taskJump" : 15, "condition" : [0,5]}
+    ,"35002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 35003, "dropId" : 429502, "taskJump" : 15, "condition" : [0,10]}
+    ,"35003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 35004, "dropId" : 429503, "taskJump" : 15, "condition" : [0,20]}
+    ,"35004" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 35005, "dropId" : 429504, "taskJump" : 15, "condition" : [0,50]}
+    ,"35005" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429505, "taskJump" : 15, "condition" : [0,100]}
+    ,"36001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 36002, "dropId" : 429601, "taskJump" : 16, "condition" : [0,2]}
+    ,"36002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36003, "dropId" : 429602, "taskJump" : 16, "condition" : [0,3]}
+    ,"36003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36004, "dropId" : 429603, "taskJump" : 16, "condition" : [0,4]}
+    ,"36004" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429604, "taskJump" : 16, "condition" : [0,5]}
+    ,"37001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 37002, "dropId" : 429701, "taskJump" : 8, "condition" : [0,2]}
+    ,"37002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 37003, "dropId" : 429702, "taskJump" : 8, "condition" : [0,3]}
+    ,"37003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 37004, "dropId" : 429703, "taskJump" : 8, "condition" : [0,4]}
+    ,"37004" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 37005, "dropId" : 431101, "taskJump" : 9, "condition" : [0,20]}
+    ,"37005" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 37006, "dropId" : 431102, "taskJump" : 9, "condition" : [0,50]}
+    ,"37006" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 37007, "dropId" : 431103, "taskJump" : 9, "condition" : [0,100]}
+    ,"37007" : { "taskType" : 3, "isFrist" : 0, "dropId" : 431104, "taskJump" : 9, "condition" : [0,200]}
+    ,"38001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 38002, "dropId" : 429801, "taskJump" : 7, "condition" : [0,2]}
+    ,"38002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 38003, "dropId" : 429802, "taskJump" : 7, "condition" : [0,3]}
+    ,"38003" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429803, "taskJump" : 7, "condition" : [0,4]}
+    ,"39001" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 39002, "dropId" : 429901, "taskJump" : 17, "condition" : [0,5]}
+    ,"39002" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39003, "dropId" : 429902, "taskJump" : 17, "condition" : [0,10]}
+    ,"39003" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39004, "dropId" : 429903, "taskJump" : 17, "condition" : [0,20]}
+    ,"39004" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39005, "dropId" : 429904, "taskJump" : 17, "condition" : [0,30]}
+    ,"39005" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39006, "dropId" : 429905, "taskJump" : 17, "condition" : [0,40]}
+    ,"39006" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39007, "dropId" : 429906, "taskJump" : 17, "condition" : [0,50]}
+    ,"39007" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39008, "dropId" : 429907, "taskJump" : 17, "condition" : [0,60]}
+    ,"39008" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39009, "dropId" : 429908, "taskJump" : 17, "condition" : [0,70]}
+    ,"39009" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 39010, "dropId" : 429909, "taskJump" : 17, "condition" : [0,80]}
+    ,"39010" : { "taskType" : 3, "isFrist" : 0, "dropId" : 429910, "taskJump" : 17, "condition" : [0,90]}
+    ,"36011" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 36012, "dropId" : 430001, "taskJump" : 18, "condition" : [0,1]}
+    ,"36012" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36013, "dropId" : 430002, "taskJump" : 18, "condition" : [0,5]}
+    ,"36013" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36014, "dropId" : 430003, "taskJump" : 18, "condition" : [0,10]}
+    ,"36014" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36015, "dropId" : 430004, "taskJump" : 18, "condition" : [0,20]}
+    ,"36015" : { "taskType" : 3, "isFrist" : 0, "dropId" : 430005, "taskJump" : 18, "condition" : [0,30]}
+    ,"36101" : { "taskType" : 3, "isFrist" : 1, "nextTaskId" : 36102, "dropId" : 431001, "taskJump" : 20, "condition" : [0,100]}
+    ,"36102" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36103, "dropId" : 431002, "taskJump" : 20, "condition" : [0,200]}
+    ,"36103" : { "taskType" : 3, "isFrist" : 0, "nextTaskId" : 36104, "dropId" : 431003, "taskJump" : 20, "condition" : [0,400]}
+    ,"36104" : { "taskType" : 3, "isFrist" : 0, "dropId" : 431004, "taskJump" : 20, "condition" : [0,800]}
+}

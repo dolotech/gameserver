@@ -1,0 +1,8 @@
+
+{
+    "10001" : { "weaponId" : 120001, "physical" : 15, "magic" : 0, "defense" : 30, "life" : 24, "speed" : 10, "physicalGrowth" : 4, "magicGrowth" : 0, "defenseGrowth" : 7, "lifeGrowth" : 6, "speedGrowth" : 0}
+    ,"10002" : { "weaponId" : 110001, "physical" : 22, "magic" : 0, "defense" : 24, "life" : 30, "speed" : 11, "physicalGrowth" : 5, "magicGrowth" : 0, "defenseGrowth" : 6, "lifeGrowth" : 7, "speedGrowth" : 0}
+    ,"10003" : { "weaponId" : 140001, "physical" : 0, "magic" : 25, "defense" : 20, "life" : 16, "speed" : 12, "physicalGrowth" : 0, "magicGrowth" : 6, "defenseGrowth" : 5, "lifeGrowth" : 4, "speedGrowth" : 0}
+    ,"10004" : { "weaponId" : 150001, "physical" : 0, "magic" : 18, "defense" : 22, "life" : 22, "speed" : 13, "physicalGrowth" : 0, "magicGrowth" : 4, "defenseGrowth" : 5, "lifeGrowth" : 5, "speedGrowth" : 0}
+    ,"10005" : { "weaponId" : 130001, "physical" : 22, "magic" : 0, "defense" : 16, "life" : 20, "speed" : 14, "physicalGrowth" : 6, "magicGrowth" : 0, "defenseGrowth" : 4, "lifeGrowth" : 5, "speedGrowth" : 0}
+}

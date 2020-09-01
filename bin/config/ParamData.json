@@ -1,0 +1,36 @@
+
+{
+    "staminaNum" : 40
+    ,"staminaMax" : 80
+    ,"staminaPrice" : 4
+    ,"staminaCd" : 600
+    ,"nickNameGold" : 10000
+    ,"giftHoner" : 2
+    ,"giftStamina" : 1
+    ,"recevStamina" : 1
+    ,"friendMax" : 30
+    ,"pvaPrice" : 1
+    ,"pvaMaxNum" : 10
+    ,"pvbPrice" : 3
+    ,"pvbMaxNum" : 8
+    ,"pvpPrice" : 2
+    ,"pvpMaxNum" : 7
+    ,"openPowerSkill" : 41005
+    ,"openDayTask" : 41012
+    ,"openPva" : 41053
+    ,"openPvp" : 15
+    ,"openPvb" : 12
+    ,"openRole" : 41004
+    ,"IngotsID" : 22001
+    ,"TrainID" : 22002
+    ,"ScrollID" : 22003
+    ,"minThroughDungeonId" : 41001
+    ,"minChallengeDungeonId" : 51001
+    ,"chapterCap" : 50
+    ,"pvbRecover" : 10800
+    ,"pvpRecover" : 3600
+    ,"pvaRecover" : 7200
+    ,"pvaShowMax" : 15
+    ,"pvaAwardsTime" : 3600
+    ,"charRest" : 2
+}

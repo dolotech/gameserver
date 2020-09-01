@@ -1,0 +1,28 @@
+
+{
+    "110001" : { "nextId" : 110002, "star" : 2, "level" : 10, "golds" : 25000, "itemId" : 22003, "num" : 10}
+    ,"110002" : { "nextId" : 110003, "star" : 6, "level" : 30, "golds" : 50000, "itemId" : 22003, "num" : 30}
+    ,"110003" : { "nextId" : 110004, "star" : 6, "level" : 50, "golds" : 150000, "itemId" : 22003, "num" : 60}
+    ,"110004" : { "nextId" : 110005, "star" : 6, "level" : 70, "golds" : 250000, "itemId" : 22003, "num" : 100}
+    ,"110005" : { "nextId" : 110006, "star" : 6, "level" : 90, "golds" : 400000, "itemId" : 22003, "num" : 200}
+    ,"120001" : { "nextId" : 120002, "star" : 2, "level" : 10, "golds" : 25000, "itemId" : 22003, "num" : 10}
+    ,"120002" : { "nextId" : 120003, "star" : 6, "level" : 30, "golds" : 50000, "itemId" : 22003, "num" : 30}
+    ,"120003" : { "nextId" : 120004, "star" : 6, "level" : 50, "golds" : 150000, "itemId" : 22003, "num" : 60}
+    ,"120004" : { "nextId" : 120005, "star" : 6, "level" : 70, "golds" : 250000, "itemId" : 22003, "num" : 100}
+    ,"120005" : { "nextId" : 120006, "star" : 6, "level" : 90, "golds" : 400000, "itemId" : 22003, "num" : 200}
+    ,"130001" : { "nextId" : 130002, "star" : 2, "level" : 10, "golds" : 25000, "itemId" : 22003, "num" : 10}
+    ,"130002" : { "nextId" : 130003, "star" : 6, "level" : 30, "golds" : 50000, "itemId" : 22003, "num" : 30}
+    ,"130003" : { "nextId" : 130004, "star" : 6, "level" : 50, "golds" : 150000, "itemId" : 22003, "num" : 60}
+    ,"130004" : { "nextId" : 130005, "star" : 6, "level" : 70, "golds" : 250000, "itemId" : 22003, "num" : 100}
+    ,"130005" : { "nextId" : 130006, "star" : 6, "level" : 90, "golds" : 400000, "itemId" : 22003, "num" : 200}
+    ,"140001" : { "nextId" : 140002, "star" : 2, "level" : 10, "golds" : 25000, "itemId" : 22003, "num" : 10}
+    ,"140002" : { "nextId" : 140003, "star" : 6, "level" : 30, "golds" : 50000, "itemId" : 22003, "num" : 30}
+    ,"140003" : { "nextId" : 140004, "star" : 6, "level" : 50, "golds" : 150000, "itemId" : 22003, "num" : 60}
+    ,"140004" : { "nextId" : 140005, "star" : 6, "level" : 70, "golds" : 250000, "itemId" : 22003, "num" : 100}
+    ,"140005" : { "nextId" : 140006, "star" : 6, "level" : 90, "golds" : 400000, "itemId" : 22003, "num" : 200}
+    ,"150001" : { "nextId" : 150002, "star" : 2, "level" : 10, "golds" : 25000, "itemId" : 22003, "num" : 10}
+    ,"150002" : { "nextId" : 150003, "star" : 6, "level" : 30, "golds" : 50000, "itemId" : 22003, "num" : 30}
+    ,"150003" : { "nextId" : 150004, "star" : 6, "level" : 50, "golds" : 150000, "itemId" : 22003, "num" : 60}
+    ,"150004" : { "nextId" : 150005, "star" : 6, "level" : 70, "golds" : 250000, "itemId" : 22003, "num" : 100}
+    ,"150005" : { "nextId" : 150006, "star" : 6, "level" : 90, "golds" : 400000, "itemId" : 22003, "num" : 200}
+}

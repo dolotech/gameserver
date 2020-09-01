@@ -1,0 +1,33 @@
+
+{
+    "110001" : { "resType" : 10002, "advanced" : 1, "PHY" : 22, "MAG" : 0, "DF" : 24, "HP" : 30, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32001, "strengMax" : 20}
+    ,"110002" : { "resType" : 10002, "advanced" : 2, "PHY" : 81, "MAG" : 0, "DF" : 95, "HP" : 113, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32002, "strengMax" : 40}
+    ,"110003" : { "resType" : 10002, "advanced" : 3, "PHY" : 259, "MAG" : 0, "DF" : 309, "HP" : 363, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32003, "strengMax" : 60}
+    ,"110004" : { "resType" : 10002, "advanced" : 4, "PHY" : 476, "MAG" : 0, "DF" : 570, "HP" : 668, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32004, "strengMax" : 80}
+    ,"110005" : { "resType" : 10002, "advanced" : 5, "PHY" : 732, "MAG" : 0, "DF" : 878, "HP" : 1028, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32005, "strengMax" : 100}
+    ,"110006" : { "resType" : 10002, "advanced" : 6, "PHY" : 1027, "MAG" : 0, "DF" : 1233, "HP" : 1443, "buffId" : 0, "basisSkill" : 32000, "specialSkill" : 32006, "strengMax" : 120}
+    ,"120001" : { "resType" : 10001, "advanced" : 1, "PHY" : 15, "MAG" : 0, "DF" : 30, "HP" : 24, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31001, "strengMax" : 20}
+    ,"120002" : { "resType" : 10001, "advanced" : 2, "PHY" : 62, "MAG" : 0, "DF" : 113, "HP" : 95, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31002, "strengMax" : 40}
+    ,"120003" : { "resType" : 10001, "advanced" : 3, "PHY" : 204, "MAG" : 0, "DF" : 363, "HP" : 309, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31003, "strengMax" : 60}
+    ,"120004" : { "resType" : 10001, "advanced" : 4, "PHY" : 377, "MAG" : 0, "DF" : 668, "HP" : 570, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31004, "strengMax" : 80}
+    ,"120005" : { "resType" : 10001, "advanced" : 5, "PHY" : 581, "MAG" : 0, "DF" : 1028, "HP" : 878, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31005, "strengMax" : 100}
+    ,"120006" : { "resType" : 10001, "advanced" : 6, "PHY" : 816, "MAG" : 0, "DF" : 1443, "HP" : 1233, "buffId" : 0, "basisSkill" : 31000, "specialSkill" : 31006, "strengMax" : 120}
+    ,"130001" : { "resType" : 10005, "advanced" : 1, "PHY" : 22, "MAG" : 0, "DF" : 16, "HP" : 20, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35001, "strengMax" : 20}
+    ,"130002" : { "resType" : 10005, "advanced" : 2, "PHY" : 93, "MAG" : 0, "DF" : 63, "HP" : 79, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35002, "strengMax" : 40}
+    ,"130003" : { "resType" : 10005, "advanced" : 3, "PHY" : 307, "MAG" : 0, "DF" : 205, "HP" : 257, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35003, "strengMax" : 60}
+    ,"130004" : { "resType" : 10005, "advanced" : 4, "PHY" : 568, "MAG" : 0, "DF" : 378, "HP" : 474, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35004, "strengMax" : 80}
+    ,"130005" : { "resType" : 10005, "advanced" : 5, "PHY" : 876, "MAG" : 0, "DF" : 582, "HP" : 730, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35005, "strengMax" : 100}
+    ,"130006" : { "resType" : 10005, "advanced" : 6, "PHY" : 1231, "MAG" : 0, "DF" : 817, "HP" : 1025, "buffId" : 0, "basisSkill" : 35000, "specialSkill" : 35006, "strengMax" : 120}
+    ,"140001" : { "resType" : 10003, "advanced" : 1, "PHY" : 0, "MAG" : 25, "DF" : 162, "HP" : 154, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33001, "strengMax" : 20}
+    ,"140002" : { "resType" : 10003, "advanced" : 2, "PHY" : 0, "MAG" : 96, "DF" : 221, "HP" : 201, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33002, "strengMax" : 40}
+    ,"140003" : { "resType" : 10003, "advanced" : 3, "PHY" : 0, "MAG" : 310, "DF" : 399, "HP" : 343, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33003, "strengMax" : 60}
+    ,"140004" : { "resType" : 10003, "advanced" : 4, "PHY" : 0, "MAG" : 571, "DF" : 616, "HP" : 516, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33004, "strengMax" : 80}
+    ,"140005" : { "resType" : 10003, "advanced" : 5, "PHY" : 0, "MAG" : 879, "DF" : 872, "HP" : 720, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33005, "strengMax" : 100}
+    ,"140006" : { "resType" : 10003, "advanced" : 6, "PHY" : 0, "MAG" : 1234, "DF" : 1167, "HP" : 955, "buffId" : 0, "basisSkill" : 33000, "specialSkill" : 33006, "strengMax" : 120}
+    ,"150001" : { "resType" : 10004, "advanced" : 1, "PHY" : 0, "MAG" : 18, "DF" : 180, "HP" : 188, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34001, "strengMax" : 20}
+    ,"150002" : { "resType" : 10004, "advanced" : 2, "PHY" : 0, "MAG" : 65, "DF" : 239, "HP" : 247, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34002, "strengMax" : 40}
+    ,"150003" : { "resType" : 10004, "advanced" : 3, "PHY" : 0, "MAG" : 207, "DF" : 417, "HP" : 425, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34003, "strengMax" : 60}
+    ,"150004" : { "resType" : 10004, "advanced" : 4, "PHY" : 0, "MAG" : 380, "DF" : 634, "HP" : 642, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34004, "strengMax" : 80}
+    ,"150005" : { "resType" : 10004, "advanced" : 5, "PHY" : 0, "MAG" : 584, "DF" : 890, "HP" : 898, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34005, "strengMax" : 100}
+    ,"150006" : { "resType" : 10004, "advanced" : 6, "PHY" : 0, "MAG" : 819, "DF" : 1185, "HP" : 1193, "buffId" : 0, "basisSkill" : 34000, "specialSkill" : 34006, "strengMax" : 120}
+}

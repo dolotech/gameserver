@@ -1,0 +1,8 @@
+
+{
+    "39001" : { "power" : 220, "itemid" : 0, "count" : 0}
+    ,"39002" : { "power" : 260, "itemid" : 2, "count" : 200000}
+    ,"39003" : { "power" : 300, "itemid" : 3, "count" : 200}
+    ,"39004" : { "power" : 300, "itemid" : 3, "count" : 200}
+    ,"39005" : { "power" : 250, "itemid" : 3, "count" : 100}
+}

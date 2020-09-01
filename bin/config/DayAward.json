@@ -1,0 +1,717 @@
+ {
+ 	"signAward": [
+ 		null, {
+ 			"days": 1,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 2,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 3,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 4,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 5,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 6,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 7,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 8,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 9,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 10,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 11,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 12,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 13,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 14,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 15,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 16,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 17,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 18,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 19,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 20,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 21,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 22,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 23,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 24,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 25,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 26,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 27,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 28,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 29,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 30,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"days": 31,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}
+ 	],
+
+ 	"levelAward": [
+ 		null, {
+ 			"level": 5,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"level": 10,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"level": 20,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"level": 30,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}
+ 	],
+
+ 	"onlineAward": [
+ 		null, {
+ 			"onlineMin": 1,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 2,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 5,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 10,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 20,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 30,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"onlineMin": 60,
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}
+ 	],
+
+ 	"openServiceAward": [
+ 		null, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+
+ 		{
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+
+ 		{
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+
+ 		{
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+
+ 		{
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+
+ 		{
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		}, {
+ 			"gold": 100,
+ 			"items": [{
+ 				"id": 21001,
+ 				"count": 10
+ 			}, {
+ 				"id": 21002,
+ 				"count": 15
+ 			}]
+ 		},
+ 	]
+ }

@@ -1,0 +1,27 @@
+
+{
+    "1" : { "platform" : "ios", "productId" : 1001, "payCode" : "com.ddloft.elimi.product1001", "count" : 4, "price" : 6}
+    ,"2" : { "platform" : "ios", "productId" : 1002, "payCode" : "com.ddloft.elimi.product1002", "count" : 10, "price" : 12}
+    ,"3" : { "platform" : "ios", "productId" : 1003, "payCode" : "com.ddloft.elimi.product1003", "count" : 50, "price" : 60}
+    ,"4" : { "platform" : "ios", "productId" : 1004, "payCode" : "com.ddloft.elimi.product1004", "count" : 110, "price" : 120}
+    ,"5" : { "platform" : "ios", "productId" : 1005, "payCode" : "com.ddloft.elimi.product1005", "count" : 240, "price" : 240}
+    ,"6" : { "platform" : "ios", "productId" : 1006, "payCode" : "com.ddloft.elimi.product1006", "count" : 500, "price" : 480}
+    ,"7" : { "platform" : "mm", "productId" : 1001, "payCode" : "com.ddloft.mm.product1001", "count" : 4, "price" : 6}
+    ,"8" : { "platform" : "mm", "productId" : 1002, "payCode" : "com.ddloft.mm.product1002", "count" : 10, "price" : 12}
+    ,"9" : { "platform" : "mm", "productId" : 1003, "payCode" : "com.ddloft.mm.product1003", "count" : 50, "price" : 60}
+    ,"10" : { "platform" : "mm", "productId" : 1004, "payCode" : "com.ddloft.mm.product1004", "count" : 110, "price" : 120}
+    ,"11" : { "platform" : "mm", "productId" : 1005, "payCode" : "com.ddloft.mm.product1005", "count" : 240, "price" : 240}
+    ,"12" : { "platform" : "mm", "productId" : 1006, "payCode" : "com.ddloft.mm.product1006", "count" : 500, "price" : 480}
+    ,"13" : { "platform" : "google", "productId" : 1001, "payCode" : "com.ddloft.google.product1001", "count" : 4, "price" : 6}
+    ,"14" : { "platform" : "google", "productId" : 1002, "payCode" : "com.ddloft.google.product1002", "count" : 10, "price" : 12}
+    ,"15" : { "platform" : "google", "productId" : 1003, "payCode" : "com.ddloft.google.product1003", "count" : 50, "price" : 60}
+    ,"16" : { "platform" : "google", "productId" : 1004, "payCode" : "com.ddloft.google.product1004", "count" : 110, "price" : 120}
+    ,"17" : { "platform" : "google", "productId" : 1005, "payCode" : "com.ddloft.google.product1005", "count" : 240, "price" : 240}
+    ,"18" : { "platform" : "google", "productId" : 1006, "payCode" : "com.ddloft.google.product1006", "count" : 500, "price" : 480}
+    ,"19" : { "platform" : "test", "productId" : 1001, "payCode" : "com.ddloft.cocos.product1001", "count" : 4, "price" : 6}
+    ,"20" : { "platform" : "test", "productId" : 1002, "payCode" : "com.ddloft.cocos.product1002", "count" : 10, "price" : 12}
+    ,"21" : { "platform" : "test", "productId" : 1003, "payCode" : "com.ddloft.cocos.product1003", "count" : 50, "price" : 60}
+    ,"22" : { "platform" : "test", "productId" : 1004, "payCode" : "com.ddloft.cocos.product1004", "count" : 110, "price" : 120}
+    ,"23" : { "platform" : "test", "productId" : 1005, "payCode" : "com.ddloft.cocos.product1005", "count" : 240, "price" : 240}
+    ,"24" : { "platform" : "test", "productId" : 1006, "payCode" : "com.ddloft.cocos.product1006", "count" : 500, "price" : 480}
+}

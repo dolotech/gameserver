@@ -1,0 +1,38 @@
+
+{
+    "1" : { "level" : 1, "winNum" : 1, "winAward" : 423001, "lostAward" : 424001}
+    ,"2" : { "level" : 1, "winNum" : 2, "winAward" : 423002, "lostAward" : 424002}
+    ,"3" : { "level" : 1, "winNum" : 3, "winAward" : 423003, "lostAward" : 424003}
+    ,"4" : { "level" : 1, "winNum" : 4, "winAward" : 423004, "lostAward" : 424004}
+    ,"5" : { "level" : 1, "winNum" : 5, "winAward" : 423005, "lostAward" : 424005}
+    ,"6" : { "level" : 1, "winNum" : 6, "winAward" : 423006, "lostAward" : 424006}
+    ,"7" : { "level" : 1, "winNum" : 7, "winAward" : 423007, "lostAward" : 424007}
+    ,"8" : { "level" : 2, "winNum" : 1, "winAward" : 423008, "lostAward" : 424008}
+    ,"9" : { "level" : 2, "winNum" : 2, "winAward" : 423009, "lostAward" : 424009}
+    ,"10" : { "level" : 2, "winNum" : 3, "winAward" : 423010, "lostAward" : 424010}
+    ,"11" : { "level" : 2, "winNum" : 4, "winAward" : 423011, "lostAward" : 424011}
+    ,"12" : { "level" : 2, "winNum" : 5, "winAward" : 423012, "lostAward" : 424012}
+    ,"13" : { "level" : 2, "winNum" : 6, "winAward" : 423013, "lostAward" : 424013}
+    ,"14" : { "level" : 2, "winNum" : 7, "winAward" : 423014, "lostAward" : 424014}
+    ,"15" : { "level" : 3, "winNum" : 1, "winAward" : 423015, "lostAward" : 424015}
+    ,"16" : { "level" : 3, "winNum" : 2, "winAward" : 423016, "lostAward" : 424016}
+    ,"17" : { "level" : 3, "winNum" : 3, "winAward" : 423017, "lostAward" : 424017}
+    ,"18" : { "level" : 3, "winNum" : 4, "winAward" : 423018, "lostAward" : 424018}
+    ,"19" : { "level" : 3, "winNum" : 5, "winAward" : 423019, "lostAward" : 424019}
+    ,"20" : { "level" : 3, "winNum" : 6, "winAward" : 423020, "lostAward" : 424020}
+    ,"21" : { "level" : 3, "winNum" : 7, "winAward" : 423021, "lostAward" : 424021}
+    ,"22" : { "level" : 4, "winNum" : 1, "winAward" : 423022, "lostAward" : 424022}
+    ,"23" : { "level" : 4, "winNum" : 2, "winAward" : 423023, "lostAward" : 424023}
+    ,"24" : { "level" : 4, "winNum" : 3, "winAward" : 423024, "lostAward" : 424024}
+    ,"25" : { "level" : 4, "winNum" : 4, "winAward" : 423025, "lostAward" : 424025}
+    ,"26" : { "level" : 4, "winNum" : 5, "winAward" : 423026, "lostAward" : 424026}
+    ,"27" : { "level" : 4, "winNum" : 6, "winAward" : 423027, "lostAward" : 424027}
+    ,"28" : { "level" : 4, "winNum" : 7, "winAward" : 423028, "lostAward" : 424028}
+    ,"29" : { "level" : 5, "winNum" : 1, "winAward" : 423029, "lostAward" : 424029}
+    ,"30" : { "level" : 5, "winNum" : 2, "winAward" : 423030, "lostAward" : 424030}
+    ,"31" : { "level" : 5, "winNum" : 3, "winAward" : 423031, "lostAward" : 424031}
+    ,"32" : { "level" : 5, "winNum" : 4, "winAward" : 423032, "lostAward" : 424032}
+    ,"33" : { "level" : 5, "winNum" : 5, "winAward" : 423033, "lostAward" : 424033}
+    ,"34" : { "level" : 5, "winNum" : 6, "winAward" : 423034, "lostAward" : 424034}
+    ,"35" : { "level" : 5, "winNum" : 7, "winAward" : 423035, "lostAward" : 424035}
+}

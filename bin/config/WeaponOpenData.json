@@ -1,0 +1,28 @@
+
+{
+    "1" : { "weaponId" : 110011}
+    ,"2" : { "weaponId" : 110021}
+    ,"3" : { "weaponId" : 110031}
+    ,"4" : { "weaponId" : 110041}
+    ,"5" : { "weaponId" : 110051}
+    ,"6" : { "weaponId" : 120011}
+    ,"7" : { "weaponId" : 120021}
+    ,"8" : { "weaponId" : 120031}
+    ,"9" : { "weaponId" : 120041}
+    ,"10" : { "weaponId" : 120051}
+    ,"11" : { "weaponId" : 130011}
+    ,"12" : { "weaponId" : 130021}
+    ,"13" : { "weaponId" : 130031}
+    ,"14" : { "weaponId" : 130041}
+    ,"15" : { "weaponId" : 130051}
+    ,"16" : { "weaponId" : 140011}
+    ,"17" : { "weaponId" : 140021}
+    ,"18" : { "weaponId" : 140031}
+    ,"19" : { "weaponId" : 140041}
+    ,"20" : { "weaponId" : 140051}
+    ,"21" : { "weaponId" : 150011}
+    ,"22" : { "weaponId" : 150021}
+    ,"23" : { "weaponId" : 150031}
+    ,"24" : { "weaponId" : 150041}
+    ,"25" : { "weaponId" : 150051}
+}

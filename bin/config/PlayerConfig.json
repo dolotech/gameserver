@@ -1,0 +1,113 @@
+{
+    "gold": 0,
+    "diamond": 5,
+    "level": 1,
+    "exp": 0,
+    "vip": 1,
+    "stamina": 80,
+    "medal": 0,
+    "power": 0,
+    "trainBook": 0,
+    "honor": 0,
+    "resType": [1, 2],
+
+
+    "partners": [{
+        "id": 10001,
+        "level": 1,
+        "exp": 0
+    }, {
+        "id": 10002,
+        "level": 1,
+        "exp": 0
+    }, {
+        "id": 10003,
+        "level": 1,
+        "exp": 0
+    }, {
+        "id": 10004,
+        "level": 1,
+        "exp": 0
+    }, {
+        "id": 10005,
+        "level": 1,
+        "exp": 0
+    }],
+
+
+    "bag": [{
+            "id": 21001,
+            "count": 0
+        }, {
+            "id": 21002,
+            "count": 0
+        }, {
+            "id": 21003,
+            "count": 0
+        }, {
+            "id": 21004,
+            "count": 0
+        }, {
+            "id": 21005,
+            "count": 0
+        }, {
+            "id": 21006,
+            "count": 0
+        }, {
+            "id": 21007,
+            "count": 0
+        }, {
+            "id": 21008,
+            "count": 0
+        }, {
+            "id": 21009,
+            "count": 0
+        }, {
+            "id": 21010,
+            "count": 0
+        }, {
+            "id": 21011,
+            "count": 0
+        }, {
+            "id": 21012,
+            "count": 0
+        }, {
+            "id": 21013,
+            "count": 0
+        }, {
+            "id": 21014,
+            "count": 0
+        }, {
+            "id": 21015,
+            "count": 0
+        },
+
+        {
+            "id": 22001,
+            "count": 0
+        }, {
+            "id": 22002,
+            "count": 0
+        }, {
+            "id": 22003,
+            "count": 0
+        }, {
+            "id": 22004,
+            "count": 0
+        }
+
+    ],
+
+
+    "dungeon": {
+        "throughDungeonId": 41001,
+        "challengeDungeonId": 51001,
+        "challengeTimes": 1
+    },
+
+
+    "usedEnergySkill": 0,
+    "ownedEnergySkills": [39001],
+    "challengeLevelLimit": 1,
+    "minFightTime": 0
+}

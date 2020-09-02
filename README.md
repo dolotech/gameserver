@@ -1,10 +1,13 @@
-# 三消即时对战 gameserver
+# 即时对战消除卡牌 gameserver
 
-# 协议 tpc pomelo json
-
-# 数据库  mysql 
-
-# 支持滚服
+## 网络通信议采用 tpc pomelo json
+## 采用网络消息注册
+## zlib网络数据压缩
+## 数据库 mysql 
+## 支持滚服
+## 面向xls数据表开发并支持热更数据
+## 支持多玩家消息推送
+## 支持游戏房间
 
 
 
